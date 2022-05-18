@@ -9,7 +9,7 @@ Link collection to store and share useful websites and knowledge material.
 ### YAML
 | Name  | Description |
 | ------------- | ------------- |
-| [YAML Verification]([https://github.com/ansible/ansible-examples](http://www.yamllint.com/))  | Online verification of YAML files |
+| [YAML Verification](http://www.yamllint.com/) | Online verification of YAML files |
 
 
 ### Other link collections: 
