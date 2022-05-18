@@ -18,4 +18,7 @@ Link collection to store and share useful websites and knowledge material.
 | [Link collection](https://github.com/itspedruu/link-collection)  | Another useful link collection. |
 
 
-
+### Monitoring
+| Name  | Description |
+| ------------- | ------------- |
+| [Setup prometheus monitoring on k8s](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/) | Monitoring on k8s |
