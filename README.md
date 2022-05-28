@@ -2,6 +2,7 @@
 Link collection to store and share useful websites and knowledge material. 
 
 ## CI/CD & Automation 
+Links covering material about CICD Pipelines and automation. 
 ### GitLab
 | Name | Description |
 | ------------- | ------------- |
@@ -72,6 +73,7 @@ Link collection to store and share useful websites and knowledge material.
 
 
 ## Other link collections: 
+Other useful link collections: 
 | Name  | Description |
 | ------------- | ------------- |
 | [Link collection](https://github.com/itspedruu/link-collection)  | Another useful link collection. |
