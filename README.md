@@ -2,12 +2,6 @@
 Link collection to store and share useful websites and knowledge material. 
 
 ## CI/CD & Automation 
-
-### Bitbucket
-| Name  | Description |
-| ------------- | ------------- |
-| [Cheatsheet Bitbucket Pipelines](https://balajisblog.com/cheatsheet-for-bitbucket-pipelines/)  | Cheatsheet bitbucket pipelines. |
-
 ### GitLab
 | Name | Description |
 | ------------- | ------------- |
@@ -28,10 +22,54 @@ Link collection to store and share useful websites and knowledge material.
 | ------------- | ------------- |
 | [YAML Verification](http://www.yamllint.com/) | Online verification of YAML files |
 
+## Kubernetes 
+| Name  | Description |
+| ------------- | ------------- |
+| [Digitalocean k8s cluster setup](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers) | Day-2 Operations-ready DigitalOcean Kubernetes (DOKS) for Developers |
+
 ## Monitoring
 | Name  | Description |
 | ------------- | ------------- |
 | [Setup prometheus monitoring on k8s](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/) | Monitoring on k8s |
+
+## Programming languages 
+| Name  | Description |
+| ------------- | ------------- |
+| [React router](https://v5.reactrouter.com/web/guides/philosophy) | Declarative routing for ReactJs. |
+
+
+## Cheatsheets
+| Name  | Description |
+| ------------- | ------------- |
+| [Cheatsheet Bitbucket Pipelines](https://balajisblog.com/cheatsheet-for-bitbucket-pipelines/)  | Cheatsheet bitbucket pipelines. |
+| [Devhints.io](https://devhints.io/) | Devhints cheatsheet | 
+
+
+## Whiteboards, grafiph designs, CSS etc.
+| Name  | Description |
+| ------------- | ------------- |
+| [miro.com](https://miro.com/de/) | Online witheboard for teams. |
+| [icons8.com](https://icons8.com/) | Free online graphics & icons. |
+| [fontawesome.com](https://fontawesome.com/) | Icon library & toolkit for online fonts |
+| [CSS-tricks](https://css-tricks.com/) | css-tricks.com | 
+| [figma.com](https://www.figma.com/) | Online drafting, scratching design tool. | 
+| [Streamlinehq.com](https://www.streamlinehq.com/) | Free online graphics & icons. |
+
+
+## Frameworks & online build tools 
+| Name  | Description |
+| ------------- | ------------- |
+| [miro.com](https://miro.com/de/) | Online witheboard for teams. |
+| [Netlify.com](https://www.netlify.com/) | Online website builder. | 
+| [hugo.io](https://gohugo.io/) | Framework to build static websites. | 
+| [mapchart.com](https://www.mapchart.net/index.html) | Custom map chart creator. | 
+
+
+## Online learning platforms 
+| Name  | Description |
+| ------------- | ------------- |
+| [codecademy.com](https://www.codecademy.com/) | Free online code learning platform. |
+
 
 ## Other link collections: 
 | Name  | Description |
