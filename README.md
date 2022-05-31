@@ -28,10 +28,13 @@ Links covering material about CICD Pipelines and automation.
 | ------------- | ------------- |
 | [Digitalocean k8s cluster setup](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers) | Day-2 Operations-ready DigitalOcean Kubernetes (DOKS) for Developers |
 
-## Monitoring
+## Monitoring & Logging 
 | Name  | Description |
 | ------------- | ------------- |
 | [Setup prometheus monitoring on k8s](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/) | Monitoring on k8s |
+| [Logtail](https://betterstack.com/logtail) | Logtail log management & search |
+| [Papertrail](https://betterstack.com/logtail) | Cloud hosted log management |
+
 
 ## Programming languages 
 | Name  | Description |
