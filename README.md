@@ -46,7 +46,7 @@ Links covering material about CICD Pipelines and automation.
 | [Devhints.io](https://devhints.io/) | Devhints cheatsheet | 
 
 
-## Whiteboards, grafiph designs, CSS etc.
+## Whiteboards, graphic designs, CSS etc.
 | Name  | Description |
 | ------------- | ------------- |
 | [miro.com](https://miro.com/de/) | Online witheboard for teams. |
