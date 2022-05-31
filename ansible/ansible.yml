@@ -4,7 +4,7 @@
   become: false # privilege escalation
   gather_facts: no # no collection of facts / info about remote hosts 
   vars: 
-    - fileLocation: C:\Temp\PrinterScriptFolder\
+    - fileLocation: C:\Temp\TempFolder\
     - backupZipFile: backupzipfile.zip
     - exportedBackupFile: backupzipfile.printerExport
     - printerTool: c:\windows\system32\spool\tools\PrintBrm.exe
