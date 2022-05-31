@@ -55,6 +55,9 @@ Links covering material about CICD Pipelines and automation.
 | [CSS-tricks](https://css-tricks.com/) | css-tricks.com | 
 | [figma.com](https://www.figma.com/) | Online drafting, scratching design tool. | 
 | [Streamlinehq.com](https://www.streamlinehq.com/) | Free online graphics & icons. |
+| [Mural.co](https://www.mural.co/) | Free online whiteboard for teamwork. |
+
+
 
 
 ## Frameworks & online build tools 
