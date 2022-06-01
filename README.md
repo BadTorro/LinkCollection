@@ -34,6 +34,8 @@ Links covering material about CICD Pipelines and automation.
 | [Setup prometheus monitoring on k8s](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/) | Monitoring on k8s |
 | [Logtail](https://betterstack.com/logtail) | Logtail log management & search |
 | [Papertrail](https://betterstack.com/logtail) | Cloud hosted log management |
+| [Nginx, Loki, Promtail and Grafana](https://janikvonrotz.ch/2021/11/09/nginx-loki-promtail-and-grafana/) | Configuration instructions for Ngnix, Loki, Promtail and Grafana |
+
 
 
 ## Programming languages 
