@@ -74,6 +74,13 @@ Links covering material about CICD Pipelines and automation.
 | [mapchart.com](https://www.mapchart.net/index.html) | Custom map chart creator. | 
 
 
+## Test automation 
+| Name  | Description |
+| ------------- | ------------- |
+| [tricentis](https://www.tricentis.com/de/) | Test automation tool. |
+
+
+
 ## Online learning platforms 
 | Name  | Description |
 | ------------- | ------------- |
