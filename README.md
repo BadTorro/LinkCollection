@@ -93,3 +93,9 @@ Other useful link collections:
 | ------------- | ------------- |
 | [Link collection](https://github.com/itspedruu/link-collection)  | Another useful link collection. |
 
+## Blogs 
+| Name  | Description |
+| ------------- | ------------- |
+| [Link collection](https://github.com/itspedruu/link-collection)  | Another useful link collection. |
+
+https://www.thorsten-hans.com/
