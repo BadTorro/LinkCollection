@@ -27,6 +27,9 @@ Links covering material about CICD Pipelines and automation.
 | Name  | Description |
 | ------------- | ------------- |
 | [Digitalocean k8s cluster setup](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers) | Day-2 Operations-ready DigitalOcean Kubernetes (DOKS) for Developers |
+| [Docker desktop alternatives](https://www.rockyourcode.com/docker-desktop-alternatives-for-macos/) | Docker desktop alternatives |
+
+
 
 ## Monitoring & Logging 
 | Name  | Description |
