@@ -96,3 +96,7 @@ Other useful link collections:
 | ------------- | ------------- |
 | [Link collection](https://github.com/itspedruu/link-collection)  | Another useful link collection. |
 
+## Blogs 
+| Name  | Description |
+| ------------- | ------------- |
+| [Thorsten Hans](https://www.thorsten-hans.com/  | Blog about cloud native stuff. | 
