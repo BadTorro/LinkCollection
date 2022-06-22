@@ -29,6 +29,10 @@ Links covering material about CICD Pipelines and automation.
 | [Digitalocean k8s cluster setup](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers) | Day-2 Operations-ready DigitalOcean Kubernetes (DOKS) for Developers |
 | [Docker desktop alternatives](https://www.rockyourcode.com/docker-desktop-alternatives-for-macos/) | Docker desktop alternatives |
 
+## Azure DevOps Pipeline 
+| Name  | Description |
+| ------------- | ------------- |
+| [Azure DevOps Pipeline Example](https://github.com/AkhilMovva/azure-devops-kubernetes-terraform-pipeline) | Examples for Azure DevOps Pipeline |
 
 
 ## Monitoring & Logging 
